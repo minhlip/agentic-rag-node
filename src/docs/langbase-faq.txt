@@ -1,0 +1,15 @@
+Frequently Asked Questions about Langbase:
+
+Q: What is Langbase?
+A: Langbase is an API-first platform for building and deploying AI agents with TypeScript.
+
+Q: What features does Langbase offer?
+A: Langbase provides:
+- Serverless AI agents
+- Document memory and RAG
+- Custom embedding models
+- Multi-LLM support
+- TypeScript SDK
+
+Q: How do I get started?
+A: Sign up at langbase.com to get an API key, then install the SDK with npm i langbase

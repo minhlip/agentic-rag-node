@@ -1,0 +1,9 @@
+Agent architectures define how AI systems are structured to process information and make decisions. Common patterns include:
+
+- Simple Reflex Agents: React directly to current input
+- Model-based Agents: Maintain internal state
+- Goal-based Agents: Work towards specific objectives
+- Utility-based Agents: Maximize a utility function
+- Learning Agents: Improve performance through experience
+
+Agent parallelization allows multiple agents to work simultaneously on different tasks or aspects of a problem.
